@@ -317,7 +317,6 @@ hterm.ScrollPort.prototype.decorate = function(div) {
       'display: block;' +
       'font-family: monospace;' +
       'font-size: 15px;' +
-      'font-weight: bold;' +
       'height: 100%;' +
       'overflow-y: scroll; overflow-x: hidden;' +
       'white-space: pre;' +
